@@ -299,19 +299,13 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrprajwal12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00F7FF&border_radius=10&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprajwal12&layout=compact&langs_count=8&theme=tokyonight&border_color=00F7FF&border_radius=10&hide_border=false"/>
-
+<div align="center"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrPrajwal12&theme=tokyonight" /> <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrPrajwal12&theme=tokyonight" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPrajwal12&theme=tokyonight" /> 
+  <br/> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrPrajwal12&theme=tokyo-night" /> 
 </div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrprajwal12&theme=tokyonight&border=00F7FF&ring=00F7FF&fire=7B2FBE&currStreakLabel=00F7FF&border_radius=10" />
-
-</div>
-
 <div align="center">
 
 ### 🏆 GitHub Trophies
